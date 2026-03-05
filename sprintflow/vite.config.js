@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
-  base: '/parcial1_MejoresPracticas/',
+  base: '/Parcial1_MejoresPracticas/',
   plugins: [
     react(),
     tailwindcss(),
